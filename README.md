@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjeev85](https://github.com/Sanjeev85)
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **machine learning, Android Development, C++**
 
 - 📫 How to reach me **sanjeevchoubey215@gmail.com**
 
