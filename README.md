@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanjeevchoubey215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qgwtD3eFgQCl_wbqN3pBbpLkaQP0Moob/view?usp=sharing](https://drive.google.com/file/d/1qgwtD3eFgQCl_wbqN3pBbpLkaQP0Moob/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/3444bunf](https://tinyurl.com/3444bunf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
