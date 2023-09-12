@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Choubey</h1>
-<h3 align="center">I am a recent graduate from Lovely Professional University in CSE</h3>
+<h3 align="center">A back-end developer who is proficient in Nodejs, ExpressJs, MongoDb, Redis, Kafka, Docker, Nginx and Google Cloud Platform </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev85&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev85" /> </p>
 
