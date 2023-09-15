@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Reactjs, tailwind**
+- 🌱 I’m currently learning **Reactjs, tailwind, Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjeev85](https://github.com/Sanjeev85)
 
